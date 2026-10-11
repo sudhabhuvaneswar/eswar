@@ -1,0 +1,7 @@
+{
+  "name": "E.S.W.A.R. — Your Personal Future Simulator",
+  "description": "Don't just plan your future. Explore your possibilities with multi-path scenario simulations, reality tracking, and future-self reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
